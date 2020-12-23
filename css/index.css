@@ -1,5 +1,17 @@
 body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    background: rebeccapurple;
+<<<<<<< HEAD
+
+=======
+}
+
+#cabecera{
+    background: lightblue;
+    color: grey;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+    text-align: left;
+>>>>>>> cabecera
 }
